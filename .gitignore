@@ -3,7 +3,7 @@ Python/
 Bash/
 Rust/
 
-
+*/test.*
 
 # formatter & linter configs
 */.prettierrc
