@@ -1,0 +1,9 @@
+Web/
+Python/
+Bash/
+Rust/
+
+
+
+# formatter & linter configs
+*/.prettierrc
