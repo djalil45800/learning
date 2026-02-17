@@ -2,18 +2,18 @@ console.log("Hello! I'm your coding fun fact guide!");
 
 let botName = "Trivia";
 let botLocation = "France";
-let favoritLanguage = "Rust";
+let favoriteLanguage = "Rust";
 
 console.log("My name is " + botName + " and I live on " + botLocation + ".");
-console.log("My favorit programming language is " + favoritLanguage + ".");
+console.log("My favorite programming language is " + favoriteLanguage + ".");
 
-let codingFact = favoritLanguage + " is named after a Fungus (not Metal).";
+let codingFact = favoriteLanguage + " is named after a Fungus (not Metal).";
 console.log(codingFact);
 
-codingFact = favoritLanguage + "'s most hated enemy is its compler.";
+codingFact = favoriteLanguage + "'s most hated enemy is its compler.";
 console.log(codingFact);
 
-codingFact = favoritLanguage + " was created wearing pyjamas!";
+codingFact = favoriteLanguage + " was created wearing pyjamas!";
 console.log(codingFact);
 
 console.log(
