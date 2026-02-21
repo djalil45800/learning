@@ -1,9 +1,4 @@
-Web/
-Python/
-Bash/
-Rust/
-
+web/
 */test.*
 
-# formatter & linter configs
 */.prettierrc
